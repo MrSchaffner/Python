@@ -1,7 +1,6 @@
 # Python
 
 Projects created using one of the most popular and succinct languages, Python
-
 ## Projects
 
 ### Hours App 
